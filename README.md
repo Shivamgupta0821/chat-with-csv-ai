@@ -81,7 +81,7 @@ it’s about combining data + logic + retrieval + reasoning
 🧠 Chat memory
 🌐 Deployment (public link)
 📁 Support for Excel / JSON
-🙌 Author
 
+🙌 Author
 Shivam Gupta
 Computer Science Engineering Student
