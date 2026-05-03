@@ -5,7 +5,7 @@ Upload your dataset and ask questions in natural language — get instant, intel
 
 🚀 Demo Idea
 Upload a CSV (e.g., Iris dataset 📊)
-Ask:
+Ask the question in the StreamLit UI:
 “How many rows are there?”
 “What is the highest sepal length?”
 “Which species has the largest petal length?”
